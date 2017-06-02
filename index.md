@@ -15,15 +15,15 @@
 ## Members' Contact Information
 
 - Bardarson, Birkir (MFRI) - [birkir.bardarson@hafogvatn.is](mailto:birkir.bardarson@hafogvatn.is)
-- Bjarte, Bogstad (IMR) - bjarte.bogstad@imr.no
-- Bjornsson, Hogskuldur (MFRI) - hoskuldur.bjornsson@hafogvatn.is
-- Fuglebakk, Edvin (IMR) - edvin.fuglebakk@imr.no
-- Gjøsæter, Harald (IMR) - harald@imr.no
-- Gudmundsdottir, Asta (MFRI) - asta.gudmundsdottir@hafogvatn.is
-- Jonsson, Sigurdur Thor (MFRI) - sigurdur.thor.jonsson@hafogvatn.is
-- Lamo, Yngve (HVL) - yngve.lamo@hvl.no
-- Sigurdsson, Thorsteinn (MFRI) - thorsteinn.sigurdsson@hafogvatn.is
-- Skaret, Georg (IMR) - georg.skaret@imr.no
-- Subbey, Samuel (IMR) - samuel.subbey@imr.no
-- Tjelm, Sigurd - sigurdtjelm@gmail.com
-- Vela, Maximiliano (HVL) - maximiliano.vela@hotmail.com
+- Bjarte, Bogstad (IMR) - [bjarte.bogstad@imr.no](bjarte.bogstad@imr.no)
+- Bjornsson, Hogskuldur (MFRI) - [hoskuldur.bjornsson@hafogvatn.is](hoskuldur.bjornsson@hafogvatn.is)
+- Fuglebakk, Edvin (IMR) - [edvin.fuglebakk@imr.no](edvin.fuglebakk@imr.no)
+- Gjøsæter, Harald (IMR) - [harald@imr.no](harald@imr.no)
+- Gudmundsdottir, Asta (MFRI) - [asta.gudmundsdottir@hafogvatn.is](asta.gudmundsdottir@hafogvatn.is)
+- Jonsson, Sigurdur Thor (MFRI) - [sigurdur.thor.jonsson@hafogvatn.is](sigurdur.thor.jonsson@hafogvatn.is)
+- Lamo, Yngve (HVL) - [yngve.lamo@hvl.no](yngve.lamo@hvl.no)
+- Sigurdsson, Thorsteinn (MFRI) - [thorsteinn.sigurdsson@hafogvatn.is](thorsteinn.sigurdsson@hafogvatn.is)
+- Skaret, Georg (IMR) - [georg.skaret@imr.no](georg.skaret@imr.no)
+- Subbey, Samuel (IMR) - [samuel.subbey@imr.no](samuel.subbey@imr.no)
+- Tjelm, Sigurd - [sigurdtjelm@gmail.com](sigurdtjelm@gmail.com)
+- Vela, Maximiliano (HVL) - [maximiliano.vela@hotmail.com](maximiliano.vela@hotmail.com)
