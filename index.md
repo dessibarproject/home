@@ -14,7 +14,7 @@
 
 ## Members' Contact Information
 
-- Bardarson, Birkir (MFRI) - birkir.bardarson@hafogvatn.is
+- Bardarson, Birkir (MFRI) - [birkir.bardarson@hafogvatn.is](mailto:birkir.bardarson@hafogvatn.is)
 - Bjarte, Bogstad (IMR) - bjarte.bogstad@imr.no
 - Bjornsson, Hogskuldur (MFRI) - hoskuldur.bjornsson@hafogvatn.is
 - Fuglebakk, Edvin (IMR) - edvin.fuglebakk@imr.no
