@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Latest Announcements
 
-You can use the [editor on GitHub](https://github.com/dessibarproject/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- June 2017: Project website has been launched.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Important Dates
 
-### Markdown
+- November 2017: Project Kick-Off Meeting in Reykjavík, Iceland
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Participating Institutions
 
-```markdown
-Syntax highlighted code block
+- Hafrannsóknastofnun (MFRI), Institute of Marine Research (Iceland)
+- Havforskningsinstituttet (IMR), Institute of Marine Research (Norway)
+- Høgskolen på Vestlandet (HVL), Western Norway University of Applied Sciences (Norway)
 
-# Header 1
-## Header 2
-### Header 3
+## Members' Contact Information
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dessibarproject/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Bardarson, Birkir (MFRI) - birkir.bardarson@hafogvatn.is
+- Bjarte, Bogstad (IMR) - bjarte.bogstad@imr.no
+- Bjornsson, Hogskuldur (MFRI) - hoskuldur.bjornsson@hafogvatn.is
+- Fuglebakk, Edvin (IMR) - edvin.fuglebakk@imr.no
+- Gjøsæter, Harald (IMR) - harald@imr.no
+- Gudmundsdottir, Asta (MFRI) - asta.gudmundsdottir@hafogvatn.is
+- Jonsson, Sigurdur Thor (MFRI) - sigurdur.thor.jonsson@hafogvatn.is
+- Lamo, Yngve (HVL) - yngve.lamo@hvl.no
+- Sigurdsson, Thorsteinn (MFRI) - thorsteinn.sigurdsson@hafogvatn.is
+- Skaret, Georg (IMR) - georg.skaret@imr.no
+- Subbey, Samuel (IMR) - samuel.subbey@imr.no
+- Tjelm, Sigurd - sigurdtjelm@gmail.com
+- Vela, Maximiliano (HVL) - maximiliano.vela@hotmail.com
