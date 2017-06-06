@@ -25,5 +25,5 @@
 - Sigurdsson, Thorsteinn (MFRI) - [thorsteinn.sigurdsson@hafogvatn.is](mailto:thorsteinn.sigurdsson@hafogvatn.is)
 - Skaret, Georg (IMR) - [georg.skaret@imr.no](mailto:georg.skaret@imr.no)
 - Subbey, Samuel (IMR) - [samuel.subbey@imr.no](mailto:samuel.subbey@imr.no)
-- Tjelm, Sigurd - [sigurdtjelm@gmail.com](mailto:sigurdtjelm@gmail.com)
+- Tjelmeland, Sigurd - [sigurdtjelm@gmail.com](mailto:sigurdtjelm@gmail.com)
 - Vela, Maximiliano (HVL) - [maximiliano.vela@hotmail.com](mailto:maximiliano.vela@hotmail.com)
